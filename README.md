@@ -1,2 +1,10 @@
-# quote-generator
-This Repository contains Quote Generator project.HTML, CSS and Vanilla JS are the tech stacks used to build the entire application
+Quote Generator
+An app that teaches the integration of an asynchronous fetch request through a Proxy API in order to generate random quotes that can be sent to Twitter.
+
+Step by Step
+Use HeroPatterns for vetcor background, Google Font
+Add simple loading animation
+Create project UI featuring FontAwesome icons
+Show async fetch request and CORS error, fixing with Proxy API
+Populate UI with quote from API, Twitter integration
+Get new quotes, dynamically show/hide loader
